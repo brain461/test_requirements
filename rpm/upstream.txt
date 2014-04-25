@@ -23,6 +23,7 @@ db4
 db4-cxx
 db4-utils
 dbus-python
+dhcp
 dhclient
 dmidecode
 dstat
@@ -47,6 +48,7 @@ man
 mc
 memcached
 mlocate
+nfs-utils
 ntp
 numpy
 openssh-clients
